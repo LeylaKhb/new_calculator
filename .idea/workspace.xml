@@ -1,24 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87ea89eb-1f91-4961-9089-b35f282567a9" name="Changes" comment="" />
+    <list default="true" id="87ea89eb-1f91-4961-9089-b35f282567a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonsView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CalculatorFrame.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DisplayView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Button.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ButtonsStructure.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Calculator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/buttons-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/calculator-frame.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/display-view.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TW19H2TMKHY1wzizlUpVcOPoGk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/habibullinaleyla/WebstormProjects/new_calculator/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1691143869947</updated>
       <workItem from="1691143871723" duration="12000" />
+      <workItem from="1691144044645" duration="18012000" />
+      <workItem from="1691268765719" duration="4266000" />
+      <workItem from="1691312417287" duration="5833000" />
     </task>
     <servers />
   </component>
